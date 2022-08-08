@@ -1,28 +1,13 @@
-# Work Day Scheduler 
+# <Work-Day-Scheduler>
 
-# <Your-Project-Title>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My motivation for this project was to create an application where i can type out the things i need to do throughout the work day.
+I learned alot about using jquery and moment.js to add the time and date to the webpage and for sending and grabbing the user inputs to/from the local storage. the problem this project solved is that it helps me stay more organised and lets me concentrate on the things i need to get down.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
-## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 ![Alt text](./assets/images/screenshot.png?raw=true "Screenshot of webpage")
@@ -30,6 +15,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Credits
 https://www.youtube.com/watch?v=nmAHDEO9RW8 a video on using moment.js to display and format dates and time
 https://momentjs.com/docs/#/displaying/ moment.js docs 
+https://github.com/jfisher396 used and changed up some of their code that let me grab the user inputs from the local storage so when you refresh the page whatever you typed there will stay.
 
 
 
