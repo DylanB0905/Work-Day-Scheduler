@@ -14,7 +14,9 @@ I learned alot about using jquery and moment.js to add the time and date to the 
 
 ## Credits
 https://www.youtube.com/watch?v=nmAHDEO9RW8 a video on using moment.js to display and format dates and time
+
 https://momentjs.com/docs/#/displaying/ moment.js docs 
+
 https://github.com/jfisher396 used and changed up some of their code that let me grab the user inputs from the local storage so when you refresh the page whatever you typed there will stay.
 
 ---
