@@ -28,7 +28,7 @@ $(".saveBtn").click(function (event) {
     localStorage.setItem(time, value);
   });
 
-
+$(function() {
 $("#hour-9 .Todo").val(localStorage.getItem("9"));
 $("#hour-10 .Todo").val(localStorage.getItem("10"));
 $("#hour-11 .Todo").val(localStorage.getItem("11"));
@@ -39,3 +39,5 @@ $("#hour-15 .Todo").val(localStorage.getItem("15"));
 $("#hour-16 .Todo").val(localStorage.getItem("16"));
 $("#hour-17 .Todo").val(localStorage.getItem("17"));
 $("#hour-18 .Todo").val(localStorage.getItem("18"));
+
+})
